@@ -1,0 +1,5 @@
+nav a:hover {
+  background-color: var(--gold);
+  color: var(--blue-dark);
+  box-shadow: 0 4px 10px rgba(212, 175, 55, 0.5);
+}
